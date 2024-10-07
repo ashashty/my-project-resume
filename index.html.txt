@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=utf-8>
+<title>My Resume</title>
+</head>
+<h1>Asha Adnan</h1>
+
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg" alt="kitten held in hand" />
+<h2>summary</h2>
+<p>I am a hardworking, result-oriented, highly productive, fast and open-minded
+    learner who is always ready to acquire new skills and knowledge. I am an
+    eloquent and charismatic speaker always ready to lead or work in a team and
+    requires little to no supervision in all I do</p>
+    <hr>
+    <h2>Education</h2>
+    <p>Jomo Kenyatta University l Nairobi, Kenya.
+        Bachelor in Business & IT (BBIT)</p>
+        <hr>
+        <h2>Work experience</h2>
+        <ul>
+            <h3>
+             <li>Sales Person / Customer Service</li>
+             </ul>
+             <ul>March 2020 - April 2021</ul>
+            <ol>
+                <li>Helped large volume of customers every day with positive attitude and focus on
+                    customer satisfaction.
+                    <li>Delivered exceptional customer service to every customer by leveraging extensive
+                        knowledge of products and services and creating welcoming, positive experiences.</li>
+                        </ol>
+                        <h3>
+                        <li>Call Center Agent</li>
+                        </h3> 
+                        <OL>
+                        <LI>Maintained customer satisfaction with forward-thinking strategies focused on
+                            addressing customer needs and resolving concerns.</LI>
+                            <LI>Analyzed customer service trends to discover areas of opportunity and provide
+                                feedback to management.</LI>
+                                </OL>
+                <HR>
+                    <H2>Skills</H2>
+                    <ul></ul>
+                    <li>Telecommunications</li>
+                        <li>marketing</li>
+                        <li>Customer Service</li>
+                      <li>Communication Skills</li>  
+                        <li>Computer Skills</li>
+                       <li>Product Development
+       
